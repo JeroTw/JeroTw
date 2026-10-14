@@ -1,7 +1,7 @@
-<h1 align="center">Hi, my name is Kirill 👋</h1>
+<h1 align="center">Hi, my name is Kirill 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&center=truepause=1000&width=435&lines=Hi+I'm+Kirill.)](https://git.io/typing-svg) 
-
+</h1>
 <p align="center">
   📍 Irkutsk, Russia &nbsp; | &nbsp; 🕒 UTC+8
 </p>
