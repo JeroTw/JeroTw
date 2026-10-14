@@ -30,4 +30,8 @@
 <a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroTw&layout=compact&bg_color=45,2b8eaf,b222a8&text_color=ffffff&title_color=ffffff&border_color=000000"/>
 </a></div>
+<br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JeroTw/JeroTw/main/terminal.gif" width="850" alt="Terminal"/>
+</p> 
