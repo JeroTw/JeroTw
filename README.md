@@ -3,6 +3,9 @@
 <p align="center">
   📍 Irkutsk, Russia &nbsp; | &nbsp; 🕒 UTC+8
 </p>
+<div align="center">
+  <img height=200px width=200px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJ45_C-PVBYEy6Au3b6oE4ZFay5IlhBFcLagjnbylTw&s=10">
+</div>
 
 <p align="center">
   <a href="https://t.me/cugadese">
