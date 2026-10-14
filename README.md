@@ -6,3 +6,26 @@
 <a href="">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroTw&layout=compact&bg_color=45,2b8eaf,b222a8&text_color=ffffff&title_color=ffffff&border_color=000000"/>
 </a>
+
+# Hi, my name is Kirill 👋
+
+<p align="center">
+  📍 Irkutsk, Russia &nbsp; | &nbsp; 🕒 UTC+8
+</p>
+
+<p align="center">
+  <a href="https://t.me/cugadese">
+    <img src="https://img.shields.io/badge/Telegram-@cugadese-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
+
+<br>
+<div align="center">
+#⚡ My skills
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,github&theme=dark" alt="Stack"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,nginx&theme=dark" alt="Stack"/>
+</p>
+
