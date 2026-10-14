@@ -1,4 +1,4 @@
-# Hi, my name is Kirill 👋
+<h1 align="center">Hi, my name is Kirill 👋</h1>
 
 <p align="center">
   📍 Irkutsk, Russia &nbsp; | &nbsp; 🕒 UTC+8
